@@ -1,2 +1,3 @@
 # lox-c
-Lox implementation "following" the book: Crafting Interpreters
+
+Lox interpreter written in C following the book [Crafting Interpreters](http://www.craftinginterpreters.com/).
